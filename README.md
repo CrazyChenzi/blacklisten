@@ -8,7 +8,7 @@ Hi 🙋‍♂️, I'm Front-End developer from Shanghai, China.
 
 Lifelong learner. 😻
 
-💬 Ping me by [Email](black_listen@163.com), [QQ](http://wpa.qq.com/msgrd?v=3&uin=756319278&site=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D&menu=yes)
+💬 Ping me by [Email](mailto:black_listen@163.com), [QQ](http://wpa.qq.com/msgrd?v=3&uin=756319278&site=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D&menu=yes)
 
 <!-- I am Into , 🙏 -->
 
