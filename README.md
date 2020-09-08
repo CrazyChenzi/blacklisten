@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacklisten&layout=compact" />
 
-**Hi there, I'm [Jiachen.Yuan](https://www.blacklisten.com) 👋.**
+**Hi there, I'm [Jiachen.Yuan](https://www.blacklisten.cn) 👋.**
 
 Hi 🙋‍♂️, I'm Front-End developer from Shanghai, China.
 
