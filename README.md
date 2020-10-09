@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacklisten&layout=compact" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacklisten&layout=compact" /> -->
 
 **Hi there, I'm [Jiachen.Yuan](https://www.blacklisten.cn) 👋.**
 
@@ -7,6 +7,8 @@ Hi 🙋‍♂️, I'm Front-End developer from Shanghai, China.
 🌱 I’m currently learning 🥀 VueJS  React & NodeJs.
 
 Lifelong learner. 😻
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=blacklisten)](https://github.com/ryo-ma/github-profile-trophy)
 
 💬 Ping me by [Email](mailto:black_listen@163.com), [QQ](http://wpa.qq.com/msgrd?v=3&uin=756319278&site=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D&menu=yes)
 
