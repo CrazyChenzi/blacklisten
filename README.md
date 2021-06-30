@@ -118,6 +118,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+<br />
+
 <!--
 **blacklisten/blacklisten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
