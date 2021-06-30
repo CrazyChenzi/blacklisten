@@ -8,7 +8,15 @@ Hi 🙋‍♂️, I'm Front-End developer from Shanghai, China.
 
 Lifelong learner. 😻
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=blacklisten)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=blacklisten&count_private=true&show_icons=true" /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=blacklisten&layout=compact" /><br />
+
+
 
 💬 Ping me by [Email](mailto:black_listen@163.com), [QQ](http://wpa.qq.com/msgrd?v=3&uin=756319278&site=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D&menu=yes)
 
@@ -23,6 +31,12 @@ Lifelong learner. 😻
 **Blogs 🌱**
 
 [https://www.blacklisten.cn](https://www.blacklisten.cn)
+
+**Waka Stats**
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
 **blacklisten/blacklisten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
