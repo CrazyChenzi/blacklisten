@@ -32,8 +32,8 @@ Lifelong learner. 😻
 
 [https://www.blacklisten.cn](https://www.blacklisten.cn)
 
-**Waka Stats**
-
+<details>
+ <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -116,6 +116,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
+</details>
 
 <!--
 **blacklisten/blacklisten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
