@@ -41,7 +41,7 @@ Lifelong learner. 😻
 
 > 🏆 64 Contributions in the Year 2021
  > 
-> 📦 257.5 kB Used in GitHub's Storage 
+> 📦 257.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,22 +78,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 34 mins       ████████████████████░░░░░   79.86% 
-JavaScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76% 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-enterprise-sales-admin   6 hrs 37 mins       ████████████████████░░░░░   80.49% 
-leetcode-learning        1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.76% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,7 +108,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blacklisten/blacklisten/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2021
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
 </details>
 
