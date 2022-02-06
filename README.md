@@ -78,22 +78,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 58 mins       ████████████████████████░   95.87% 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
-LESS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs 19 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AppRomeMetaWeb           8 hrs 6 mins        ████████████████████████░   97.44% 
-juejin-auto-checkin      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs 19 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,7 +108,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blacklisten/blacklisten/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 18:45:37 UTC
+ Last Updated on 06/02/2022 18:43:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
