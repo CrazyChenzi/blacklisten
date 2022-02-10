@@ -39,7 +39,7 @@ Lifelong learner. 😻
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
 > 📦 258.6 kB Used in GitHub's Storage 
  > 
@@ -78,16 +78,22 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 hrs 34 mins      ██████████████████████░░░   90.53% 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
+Vue.js                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
+LESS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 hrs 40 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AppRomeMetaWeb           5 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.84% 
+AppAgentAdminMetaWeb     5 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.71% 
+AppAgentAdminWeb         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +114,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blacklisten/blacklisten/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 18:43:59 UTC
+ Last Updated on 10/02/2022 18:44:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
