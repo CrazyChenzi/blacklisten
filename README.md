@@ -117,7 +117,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blacklisten/blacklisten/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 18:49:53 UTC
+ Last Updated on 21/06/2022 18:48:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
