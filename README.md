@@ -80,18 +80,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ███████████████████████░░   95.02% 
-LESS                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AppFreightBikeMP         1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -112,7 +110,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blacklisten/blacklisten/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 18:59:43 UTC
+ Last Updated on 08/10/2022 18:54:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
