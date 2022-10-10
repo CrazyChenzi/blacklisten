@@ -35,7 +35,7 @@ Lifelong learner. 😻
 <details>
  <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C082%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,16 +80,23 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.07% 
+JSON                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34% 
+TypeScript               47 mins             █████░░░░░░░░░░░░░░░░░░░░   22.8% 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+LESS                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 29 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AppRomeMetaWeb           1 hr 46 mins        ████████████░░░░░░░░░░░░░   50.81% 
+AppBosOrderWeb           1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   42.11% 
+AppFreightBikeMP         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+pnpm_monorepo            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +117,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blacklisten/blacklisten/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2022 18:55:11 UTC
+ Last Updated on 10/10/2022 19:06:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
